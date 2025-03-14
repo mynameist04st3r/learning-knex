@@ -1,1 +1,1 @@
-CREATE DATABASE dbfile;
+CREATE DATABASE pet_store;
